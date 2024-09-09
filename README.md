@@ -1,4 +1,5 @@
 # GoPro Mod
+![thumbnail.gif]
 ## Overview
 
 This GoPro mod introduces advanced camera functionality to FiveM. With this mod, you can switch between different camera modes including a "headcam", a frozen cam, and a static cam. This mod allows for more immersive gameplay by providing various perspectives and camera views.
