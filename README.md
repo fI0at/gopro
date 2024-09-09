@@ -22,3 +22,7 @@ This GoPro mod introduces advanced camera functionality to FiveM. With this mod,
 - Driving stutters a lot.
 - Don't look behind you.
 - You can change your perspective in headcam, when you're in first person and try to walk, you'll keep walking until you aim or press control.
+### Frozen Cam
+- None known
+### Static Cam
+- None known
