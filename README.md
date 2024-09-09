@@ -16,7 +16,7 @@ This GoPro mod introduces advanced camera functionality to FiveM. With this mod,
 3. Add the following line to your `server.cfg`:
 
    ```plaintext
-   start [mod-folder-name]
+   start gopro
 ## Known Bugs
 ### Headcam
 - Driving stutters a lot.
